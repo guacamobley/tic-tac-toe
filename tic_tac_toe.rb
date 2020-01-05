@@ -228,8 +228,8 @@ class Game
   end
 end
 
-game = Game.create_game
+#game = Game.create_game
 
-game.play_game
+#game.play_game
 
 
